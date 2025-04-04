@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+* {
+margin: 0;
+padding: 0;
+border: 0;
+}
+body{
+background-color: #252525;
+color:#553284;
+}
+header{
+border-bottom:5px solid grey;
+background-color:black;
+padding: 32px;
+}
+header div{
+text-align: center;
+}
+header div a{
+color: whitesmoke;
+font-size: 32px;
+line-height: 30px;
+margin:0 16px;
+text-decoration: none;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header div a:hover{
+color:#415783;
+transition: color 696ms;
+}
+#diferente{
+
+}
+.batata{
+
+}
